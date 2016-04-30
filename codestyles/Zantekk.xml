@@ -1,0 +1,28 @@
+<code_scheme name="Zantekk">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <ScalaCodeStyleSettings>
+    <option name="addFullQualifiedImports" value="false" />
+    <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
+  </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
