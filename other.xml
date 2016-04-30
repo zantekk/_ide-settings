@@ -1,0 +1,6 @@
+<application>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+    <option name="sbtLauncherVmParameters" value="-Xmx1536M -Xms768M -XX:MaxMetaspaceSize=512M" />
+  </component>
+</application>
