@@ -1,4 +1,7 @@
 <application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="SbtSettings">
     <option name="jdkHome" value="" />
     <option name="sbtLauncherVmParameters" value="-Xmx1536M -Xms768M -XX:MaxMetaspaceSize=512M" />
